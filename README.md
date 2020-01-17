@@ -10,12 +10,12 @@ Open-Source web interface to administer everything Impuls.
 
 ## Get in touch
 
+[![Chat with us](https://img.shields.io/discord/551441672584822805?color=blue&label=Join%20us%21&logo=Discord&logoColor=lightblue&style=for-the-badge)](https://discord.gg/b74XKSw)
+
 We don't bite... And we would love to have you onboard! 😁
 
 If you want to join us in creating awesome stuff, connect with us on Discord.
 You are also welcome to just hang around. 😉
-
-<iframe src="https://discordapp.com/widget?id=551441672584822805&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ## Dependencies
 
