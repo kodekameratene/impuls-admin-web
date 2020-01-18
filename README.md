@@ -1,3 +1,11 @@
+<div align="center">
+
+[![KoKa](/resources/KoKa_Moon_Logo_with_Alhpa.png)](https://koka.no)
+
+### Made by [KoKa](https://koka.no)
+
+</div>
+
 # Impuls Admin Web
 
 Open-Source web interface to administer everything Impuls.
